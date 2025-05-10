@@ -1,0 +1,1 @@
+print("aditya@gmail.com"-"@gmail.com")
