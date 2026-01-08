@@ -144,7 +144,7 @@ Contributions are welcome:
 
 ## License
 
-Specify your license (e.g., MIT). If absent, consider adding a LICENSE file.
+Lisence @ FOT, University of Delhi
 
 ## Acknowledgements
 
